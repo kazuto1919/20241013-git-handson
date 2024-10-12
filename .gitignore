@@ -1,0 +1,20 @@
+# Logs
+*.log
+
+# environment
+.env
+*.local
+
+# OS
+.DS_Store
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.AppleDouble
+.LSOverride
+
+# tmp
+**/*tmp/*
+
+!.gitkeep
